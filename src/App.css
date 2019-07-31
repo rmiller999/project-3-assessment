@@ -1,4 +1,9 @@
-.App {
+.posts {
+  text-align: center;
+  background-color: salmon;
+}
+
+.app {
   text-align: center;
 }
 
